@@ -113,11 +113,6 @@ i{
       width: 60% !important;
     }
 } 
-@media only screen and (max-width:1024px){
-    .generate{
-        margin-left:-50px;
-    }
-}
- 
+
 
  
